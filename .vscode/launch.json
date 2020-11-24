@@ -1,0 +1,200 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "EU1.test",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValjPolylinje",
+            "request": "launch",
+            "mainClass": "OU5.ValjPolylinje",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PolylinjeTest",
+            "request": "launch",
+            "mainClass": "OU5.PolylinjeTest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PunktTest",
+            "request": "launch",
+            "mainClass": "OU5.PunktTest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - classobjekt",
+            "request": "launch",
+            "mainClass": "Testkoder.classobjekt",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - extraupp1",
+            "request": "launch",
+            "mainClass": "EU1.extraupp1",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestamDenKortasteVagen",
+            "request": "launch",
+            "mainClass": "OU3.BestamDenKortasteVagen",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestämDenKortasteVägen",
+            "request": "launch",
+            "mainClass": "OU3.BestämDenKortasteVägen",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestämDenKortasteVagen",
+            "request": "launch",
+            "mainClass": "OU3.BestämDenKortasteVagen",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PunktNTest",
+            "request": "launch",
+            "mainClass": "Testkoder.PunktNTest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperationerMedNaturligaHeltalGivnaSomTeckenstrangar",
+            "request": "launch",
+            "mainClass": "OU4.OperationerMedNaturligaHeltalGivnaSomTeckenstrangar",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnTriangelOchDessCirklar",
+            "request": "launch",
+            "mainClass": "OU2_2.EnTriangelOchDessCirklar",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnTriangelOchDessCirklar",
+            "request": "launch",
+            "mainClass": "OU2.EnTriangelOchDessCirklar",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "Testkoder.demo",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Temperaturer",
+            "request": "launch",
+            "mainClass": "OU1.Temperaturer",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - matTest",
+            "request": "launch",
+            "mainClass": "Mat.matTest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Temperaturer",
+            "request": "launch",
+            "mainClass": "Temperaturer",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeltalsMatris",
+            "request": "launch",
+            "mainClass": "HeltalsMatris",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arraytest",
+            "request": "launch",
+            "mainClass": "arraytest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeltalsSekvens",
+            "request": "launch",
+            "mainClass": "HeltalsSekvens",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DinaUppgifter",
+            "request": "launch",
+            "mainClass": "DinaUppgifter",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PersonligaUppgifter",
+            "request": "launch",
+            "mainClass": "Javakod.PersonligaUppgifter",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multiplikation",
+            "request": "launch",
+            "mainClass": "Multiplikation",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "Javakod.demo",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demotest",
+            "request": "launch",
+            "mainClass": "Javakod.demotest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kostnad",
+            "request": "launch",
+            "mainClass": "Javakod.Kostnad",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demotest",
+            "request": "launch",
+            "mainClass": "demotest",
+            "projectName": "Programmering 1_bf590521"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Programmering 1_bf590521"
+        }
+    ]
+}
